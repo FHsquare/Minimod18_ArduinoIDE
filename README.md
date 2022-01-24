@@ -16,7 +16,9 @@ You need to use upload by programmer, since the minimod18 has no serial converte
 | ----------- | ----------- |
 | S1          | 9           |
 | S2          | 8           |
+
 <br>
+
 | K1 Pin      | Arduino Pin |
 | ----------- | ----------- |
 | 1           | AREF        |
@@ -29,11 +31,14 @@ You need to use upload by programmer, since the minimod18 has no serial converte
 | 8           | A5/19       |
 | 9           | GND         |
 | 10          | GND         |
+
 <br>
+
 | 24C512      | Arduino Pin |
 | ----------- | ----------- |
 | SDA         | A4/18       |
 | SCL         | A5/19       |
+
 <br>
 
 
