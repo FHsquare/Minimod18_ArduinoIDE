@@ -34,6 +34,17 @@ You need to use upload by programmer, since the minimod18 has no serial converte
 
 <br>
 
+| K3 Pin      | Arduino Pin      |
+| ----------- | ---------------- |
+| 1           | 12 (MISO)        |
+| 2           | RESET            |
+| 3           | 13 (SCK)         |
+| 4           | 11 (MOSI)        |
+| 5           | 10 or RESET (JP2)|
+| 6           | GND              |
+
+<br>
+
 | 24C512      | Arduino Pin |
 | ----------- | ----------- |
 | SDA         | A4/18       |
